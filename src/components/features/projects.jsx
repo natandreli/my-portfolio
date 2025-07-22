@@ -10,14 +10,6 @@ export const Projects = () => {
 
       <div className="max-w-5xl mx-auto space-y-10">
         <ProjectCard
-          title="TodoApp"
-          year="2025 - Still in development"
-          description="TodoApp is a task management application built with React and NestJS. It allows users to create, update, and delete tasks, as well as mark them as complete. The app features a clean and intuitive interface, real-time updates, and a robust backend for managing user data and task states."
-          repoUrl="https://github.com/natandreli/to-do-list-front"
-          technologies={["React", "NestJS", "TypeScript"]}
-          videoUrl="/videos/todo-app.mp4"
-        />
-        <ProjectCard
           title="EchoHostAI"
           year="2025"
           description="EchoHostAI is an AI-powered platform designed to generate and manage virtual meeting agents. These agents are capable of joining meetings, tracking engagement levels, providing real-time feedback, and producing post-meeting summaries. The platform includes modules for agent creation, meeting orchestration, scoring, and analytics."
@@ -29,6 +21,14 @@ export const Projects = () => {
             "Azure Database",
           ]}
           videoUrl="/videos/echo-host-ai.mp4"
+        />
+        <ProjectCard
+          title="TodoApp"
+          year="2024 - Still in development"
+          description="TodoApp is a task management application built with React and NestJS. It allows users to create, update, and delete tasks, as well as mark them as complete. The app features a clean and intuitive interface, real-time updates, and a robust backend for managing user data and task states."
+          repoUrl="https://github.com/natandreli/to-do-list-front"
+          technologies={["React", "NestJS", "TypeScript"]}
+          videoUrl="/videos/todo-app.mp4"
         />
         <ProjectCard
           title="My ChatSocket"
