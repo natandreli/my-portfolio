@@ -27,7 +27,7 @@ This is my personal portfolio website built with **React**, showcasing my work a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/natandreli/portfolio.git
+git clone https://github.com/natandreli/my-portfolio.git
 cd portfolio
 ```
 
@@ -48,7 +48,7 @@ npm run build
 
 ## 🔗 Links
 
-- 🔗 [Live Portfolio](https://my-portfolio.vercel.app)
-- 🐙 [GitHub Repo](https://github.com/natandreli/portfolio)
+- 🔗 [Live Portfolio](https://my-portfolio-pearl-two-25.vercel.app/)
+- 🐙 [GitHub Repo](https://github.com/natandreli/my-portfolio)
 - 💬 [LinkedIn](https://www.linkedin.com/in/nataliagarcior/)
 - 📬 Email: ngarciarios2001@gmail.com
